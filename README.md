@@ -1,6 +1,6 @@
 # pits (python image-to-speech)
 
-![pitsy, the pits pit python](https://github.com/alexnbenjamin/pits/pits.png)
+![pitsy, the pits pit python](https://raw.github.com/alexnbenjamin/pits/master/pits.png)
 
 This is Pitsy, the pits pit python.
 
